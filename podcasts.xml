@@ -24,19 +24,6 @@
       <title>podgyd</title>
       <link>http://soundcloud.com/user-405642491</link>
     </image>
-    <item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/317399047</guid>
-      <title>Superintelligence</title>
-      <pubDate>Mon, 15 Apr 2018 20:15:09 +0000</pubDate>
-      <link>https://soundcloud.com/user-405642491/missle-beep-3</link>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:author>podgyd</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Leviathan Wakes 01</itunes:summary>
-      <itunes:subtitle>Leviathan Wakes 01</itunes:subtitle>
-      <description>Leviathan Wakes 01</description>
-      <enclosure type="audio/mpeg" url="https://www.dropbox.com/s/t94k3r78cd3n5z6/James%20S.A.%20Corey%20-%20Leviathan%20Wakes%2001-18.mp3" length="38656"/>
-    </item>	
-		
+
   </channel>
 </rss>
